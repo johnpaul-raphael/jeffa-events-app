@@ -29,7 +29,7 @@
 		<thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
 		<assertj.version>3.8.0</assertj.version>
 
-		<webjars.bootstrap.version>3.3.7</webjars.bootstrap.version>
+		<webjars.bootstrap.version>3.4.0</webjars.bootstrap.version>
 		<webjars.jquery.version>3.2.1</webjars.jquery.version>
 	</properties>
 
